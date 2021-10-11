@@ -21,7 +21,12 @@
 <a href="https://www.instagram.com/sreekaran_official/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Sreekaran" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UC-qy5VicVMHBZ71RPJviNbw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/1024px-YouTube_social_white_squircle_%282017%29.svg.png" alt="Sreekaran" height="30" width="40" /></a>
 </p>
+   <table>
+        <tr>
+           <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreekaran1704&show_icons=true&locale=en&layout=compact" alt="Sreekaran" /></p></td>
+            <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sreekaran1704&show_icons=true&locale=en" alt="Sreekaran" /></p></td>
+        </tr>
+    </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreekaran1704&show_icons=true&locale=en&layout=compact" alt="Sreekaran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sreekaran1704&show_icons=true&locale=en" alt="Sreekaran" /></p>
+
