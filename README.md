@@ -36,7 +36,7 @@
 
 <h3 align="left">My Coding Profiles</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/sreekaran1704" target="_blank"> <img alt="Codechef" src ="https://cp-logo.vercel.app/codechef/vibhaysingh?logo=true" height="28px"/> </a>
+<a href="https://www.codechef.com/users/sreekaran1704" target="_blank"> <img alt="Codechef" src ="https://cp-logo.vercel.app/codechef/sreekaran1704?logo=true" height="28px"/> </a>
 </p>
 <table>
  <tr>
