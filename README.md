@@ -28,14 +28,6 @@
 <a href="https://getbootstrap.com" target="_blank"> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
 </p>
 
-<!--<h3 align="left">Backend Skills</h3>
-<p align="left">
-<a href="https://nodejs.org" target="_blank"> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> </a>
-<a href="https://www.expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" /> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
-<a href="https://www.firebase.com/" target="_blank"> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> </a>
-</p>-->
-
 <h3 align="left">Others</h3>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
@@ -44,9 +36,7 @@
 
 <h3 align="left">My Coding Profiles</h3>
 <p align="left">
-<!--<a href="https://codeforces.com/profile/vibhaysingh" target="_blank"> <img alt="Codeforces" src ="https://cp-logo.vercel.app/codeforces/vibhaysingh?logo=true" height="28px"/> </a>-->
-<a href="https://www.codechef.com/users/vibhaysingh" target="_blank"> <img alt="Codechef" src ="https://cp-logo.vercel.app/codechef/vibhaysingh?logo=true" height="28px"/> </a>
-<!--<a href="https://leetcode.com/vibhaysingh/" target="_blank"> <img alt="Leetcode" src ="https://cp-logo.vercel.app/leetcode/vibhaysingh?logo=true" height="28px"/> </a>-->
+<a href="https://www.codechef.com/users/sreekaran1704" target="_blank"> <img alt="Codechef" src ="https://cp-logo.vercel.app/codechef/vibhaysingh?logo=true" height="28px"/> </a>
 </p>
 <table>
  <tr>
@@ -75,6 +65,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreekaran1704&show_icons=true&locale=en&layout=compact" alt="Sreekaran" /></p>
-
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreekaran1704" alt="sreekaran1704" /></a> </p> -->
