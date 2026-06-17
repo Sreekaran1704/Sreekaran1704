@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQFjoYYfdff3mg/profile-displaybackgroundimage-shrink_350_1400/0/1648895433917?e=2147483647&v=beta&t=xU_mn-fkENDeD7HIJQILosjxGTEmEYaFIPhhirJl_uA)](https://sreekaran1704.github.io/Resume-Website/)
+[![MasterHead](https://github.com/Sreekaran1704/Sreekaran1704/blob/main/Pastel%20Abstract%20Business%20LinkedIn%20Banner%20(3).png)](https://sreekaran1704.github.io/Resume-Website/)
 <h1 align="center">Hi 👋, I'm Sreekaran Reddy Ramasahayam</h1>
 <h3 align="center">I am a bird without wings trying to figure out things!!!</h3>
 
