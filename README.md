@@ -3,7 +3,6 @@
 Data Analyst & Data Scientist | SQL, Python, Tableau | Causal Inference, XGBoost, RAG, LLM Fine-Tuning
 M.S. Computer Science (Data Science Track), University of Missouri–Kansas City
 
-My first causal estimate was wrong by 8x. Finding out why is basically my whole personality now.
 
 ## What I've built
 
